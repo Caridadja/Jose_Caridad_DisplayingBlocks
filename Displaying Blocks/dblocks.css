@@ -1,0 +1,45 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+#header{
+    width: 700px;
+    height: auto;
+    text-align: center;
+    background-color: #D4D2AE;
+    margin: auto;
+    padding: 20px 20px 0px 20px;
+}
+#header h1{
+    display: inline-block;
+    vertical-align: bottom;
+    margin: 0px;
+}
+#header img{
+    display: inline-block;
+    vertical-align: top;
+    width: 10%;
+}
+#main_content{
+    width: 700px;
+    height: auto;
+    text-align: center;
+    background-color: #D4D2AE;  
+    padding: 20px;
+}
+#main_content img{
+    width: 18%;
+    margin: 0.5px;
+}
+.bground1{
+    border: 3px solid black;
+    outline: 7px solid #81B4EE;
+    outline-offset: -10px;
+}
+.bground2{
+    background-color: #F46870;
+    border: 3px solid black;
+}
+.domo{
+    height: 126px;
+}
